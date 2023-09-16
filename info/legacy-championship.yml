@@ -1,0 +1,15 @@
+---
+object: set
+id: 1f7e87ba-8d80-4484-a7bb-075a54f9182e
+code: olgc
+name: Legacy Championship
+uri: https://api.scryfall.com/sets/1f7e87ba-8d80-4484-a7bb-075a54f9182e
+scryfall_uri: https://scryfall.com/sets/olgc
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aolgc&unique=prints
+released_at: '2011-01-01'
+set_type: memorabilia
+card_count: 24
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/pmei.svg?1694404800
